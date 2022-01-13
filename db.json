@@ -1,0 +1,147 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": false,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": true,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "title": "Koenig",
+      "body": "React JS Program",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "id": 4
+    },
+    {
+      "title": "Koenig Delhi",
+      "body": "Angular Program",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 5
+    },
+    {
+      "title": "Koenig Dubai",
+      "body": "FLutter Program",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 6
+    },
+    {
+      "title": "Koenig Shimla",
+      "body": "Andorid Program",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": false,
+      "id": 7
+    },
+    {
+      "title": "INDIA",
+      "body": "Koengi Solutions Pvt Ltd",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "id": 8
+    },
+    {
+      "title": "New Delhi",
+      "body": "INDIA GATE",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "id": 9
+    },
+    {
+      "title": "Lorem Ipsum",
+      "body": "Lorem Ipsum srwe asw   qe",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "id": 10
+    },
+    {
+      "title": "Koenig USA",
+      "body": "AZURE",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": true,
+      "dislikes": false,
+      "id": 11
+    },
+    {
+      "title": "New Post",
+      "body": "New Post",
+      "userId": "3",
+      "latest": false,
+      "oldest": true,
+      "likes": false,
+      "dislikes": true,
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "koenig@gmail.com",
+      "password": "koenig1234",
+      "name": "Koenig",
+      "role": "Author"
+    },
+    {
+      "id": 2,
+      "email": "guest@gmail.com",
+      "password": "guest1234",
+      "name": "Guest",
+      "role": "Visitor"
+    },
+    {
+      "email": "rick@gmail.com",
+      "password": "rick12345",
+      "name": "Rick",
+      "role": "Visitor",
+      "id": 3
+    }
+  ]
+}
